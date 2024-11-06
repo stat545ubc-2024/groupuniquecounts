@@ -17,7 +17,7 @@ You can install the development version of groupuniquecounts from
 [GitHub](https://github.com/) with:
 
 ``` r
-install_github("stat545ubc-2024/groupuniquecounts", ref = "0.1.1")
+devtools::install_github("stat545ubc-2024/groupuniquecounts", ref = "0.1.2")
 ```
 
 ## Example

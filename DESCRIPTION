@@ -1,6 +1,6 @@
 Package: groupuniquecounts
 Title: Count Unique Values by Group in a Data Frame
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Cayden", "Yu", email = "caydenn.yuu@gmail.com", role = c("aut", "cre"))
 Description: Provides the function "group_unique_counts", which groups a data frame by a specified column "x" and counts the distinct values in another specified column "y". It also provides checks for the validity of inputs.
